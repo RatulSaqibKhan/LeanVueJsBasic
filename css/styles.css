@@ -13,3 +13,11 @@ h2 {
 p {
 	text-align: center;
 }
+
+.wrapper {
+    text-align: center;
+}
+
+.button-md {
+    position: relative;
+}
