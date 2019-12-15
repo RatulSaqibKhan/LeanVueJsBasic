@@ -1,0 +1,15 @@
+* {
+	box-sizing: content-box;
+}
+
+body {
+	background-color: #c0ca33;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
